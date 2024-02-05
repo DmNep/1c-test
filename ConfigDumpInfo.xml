@@ -10,8 +10,8 @@
 		<Metadata name="CommonModule.ЯдроСканер.Module" id="16944098-195a-49a3-92d2-8a34ed2a43c1.0" configVersion="cde37923142e5f4788ddf627b5d692a700000000"/>
 		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="81a268444169604f8f3ee6957232316700000000"/>
 		<Metadata name="DataProcessor.ПанельУправления" id="95c4d917-182b-4af5-bd17-d72f2842d12b" configVersion="7750b1bf3c4c8e4cbb328d2a916b713e00000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="d1d25c1aa910c040aeb62c2c9d6d04a400000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="62738aab64a9b447a30f755f47ef427d00000000"/>
+		<Metadata name="DataProcessor.ПанельУправления.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="99eb907cb568e047b59ceb6191f8011400000000"/>
+		<Metadata name="DataProcessor.ПанельУправления.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="be2879c0d1fdaf48b1a1b3aca5e0caf200000000"/>
 		<Metadata name="InformationRegister.БуферАдресов" id="d3d09f9b-78a3-4e35-a58a-0b61231a16c6" configVersion="f86bd49343b2604ea6842553dcc0e01000000000">
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Дата" id="0234ee03-09c4-4d37-bb7a-08f14ab28373"/>
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Очередь" id="aae8477f-5fac-4601-ae7c-592bebb68f4f"/>
