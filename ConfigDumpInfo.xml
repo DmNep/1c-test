@@ -2,16 +2,16 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.Тест_Адреса" id="2eac28af-c11f-4350-a15c-9ab0d5a6f390" configVersion="e94ee2737865684ba4e0616f4015ea2f00000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="ccf790f91b3a2d4281f8c830341f341e00000000"/>
-		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="b613210a7338c94f984149b8dd9e594700000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997" configVersion="ecaca864873a8f48b3f15c25a82d80e300000000"/>
+		<Metadata name="CommonModule.ЯдроАнализатор.Module" id="7e9955f9-0a16-466c-b857-3c2a4ffe6997.0" configVersion="c610f88856827d4dbc62157b981655ac00000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f" configVersion="0bf2e7667a2220468fcbcbf4000badc600000000"/>
 		<Metadata name="CommonModule.ЯдроЗагрузчик.Module" id="1f276ad3-da0e-4f8a-83ae-aff3f3966d5f.0" configVersion="77f318f75443aa4c9036ca424d9da69b00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер" id="16944098-195a-49a3-92d2-8a34ed2a43c1" configVersion="2b49db0d7b17a34da094f7b9b31b42ef00000000"/>
 		<Metadata name="CommonModule.ЯдроСканер.Module" id="16944098-195a-49a3-92d2-8a34ed2a43c1.0" configVersion="cde37923142e5f4788ddf627b5d692a700000000"/>
 		<Metadata name="Configuration.Crowler" id="ef5f1d51-1e6f-475d-9abd-e8d38ddf099e" configVersion="81a268444169604f8f3ee6957232316700000000"/>
 		<Metadata name="DataProcessor.ПанельУправления" id="95c4d917-182b-4af5-bd17-d72f2842d12b" configVersion="7750b1bf3c4c8e4cbb328d2a916b713e00000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="4f7040f9d4654c4a96881f2a61dfc7e000000000"/>
-		<Metadata name="DataProcessor.ПанельУправления.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="4603faca4f4a8748bf9dd22da9eab2e800000000"/>
+		<Metadata name="DataProcessor.ПанельУправления.Form.Форма" id="c534a709-00b7-45a1-869e-90c80086c116" configVersion="d1d25c1aa910c040aeb62c2c9d6d04a400000000"/>
+		<Metadata name="DataProcessor.ПанельУправления.Form.Форма.Form" id="c534a709-00b7-45a1-869e-90c80086c116.0" configVersion="62738aab64a9b447a30f755f47ef427d00000000"/>
 		<Metadata name="InformationRegister.БуферАдресов" id="d3d09f9b-78a3-4e35-a58a-0b61231a16c6" configVersion="f86bd49343b2604ea6842553dcc0e01000000000">
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Дата" id="0234ee03-09c4-4d37-bb7a-08f14ab28373"/>
 			<Metadata name="InformationRegister.БуферАдресов.Attribute.Очередь" id="aae8477f-5fac-4601-ae7c-592bebb68f4f"/>
